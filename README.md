@@ -1,5 +1,6 @@
 
-<h1>Hi 👋, I'm Samuel Omobuwa! <br/><a href="https://github.com/Samuel-Omobuwa">A Frontend Developer</a>, <a href="https://www.linkedin.com/in/samuel-omobuwa-2a89201a6/">Data Analyst</a>, <a href="https://www.behance.net/samuelomobuwa">Graphic Designer</a></h1>
+<h1>Hi 👋, I'm Samuel Omobuwa! </h1>
+<h3><a href="https://github.com/Samuel-Omobuwa">A Frontend Developer</a> | <a href="https://www.linkedin.com/in/samuel-omobuwa-2a89201a6/">Data Analyst</a> | <a href="https://www.behance.net/samuelomobuwa">Graphic Designer</a></h3>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
