@@ -15,10 +15,12 @@
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/Samuel-Omobuwa/wild-oasis-website.git)
    - [Keylogger with Email Capability](https://github.com/Samuel-Omobuwa/wild-oasis-website.git)
 [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- <b></b>
 
-<h2>👨‍💻 Data Analysis/Science Project:</h2>
+<h2>📈Data Analysis/Science Project:</h2>
 - <b>Healthcare Performance Dashboard</b>
-  - [Designed a dashboard to track the proformance of and healthcare for resource managment and decision making ](https://github.com/Samuel-Omobuwa/Heath_Performance_Dashboard.git)
+
+- [Designed a dashboard to track the proformance of and healthcare for resource managment and decision making ](https://github.com/Samuel-Omobuwa/Heath_Performance_Dashboard.git)
 
 <h2> 🤳 Connect with me:</h2>
 [<img align="left" alt="Samuel Omobuwa | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
