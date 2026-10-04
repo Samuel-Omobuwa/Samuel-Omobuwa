@@ -21,7 +21,6 @@
   - [Designed a dashboard to track the proformance of and healthcare for resource managment and decision making ](https://github.com/Samuel-Omobuwa/Heath_Performance_Dashboard.git)
 
 <h2> 🤳 Connect with me:</h2>
-
 [<img align="left" alt="Samuel Omobuwa | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 [<img align="left" alt="Samuel Omobuwa | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Samuel Omobuwa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
