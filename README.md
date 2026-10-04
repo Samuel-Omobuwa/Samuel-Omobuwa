@@ -1,7 +1,6 @@
 
 <h1>Hi 👋, I'm Samuel Omobuwa! </h1>
-<h3><a href="https://github.com/Samuel-Omobuwa">A Frontend Developer</a> | <a href="https://www.linkedin.com/in/samuel-omobuwa-2a89201a6/">Data Analyst</a> | <a href="https://www.behance.net/samuelomobuwa">Graphic Designer</a></h3>
-
+<h3><a href="https://github.com/Samuel-Omobuwa">A Frontend Developer</a> | <a href="https://www.linkedin.com/in/samuel-omobuwa-2a89201a6/">Data Analyst/Scientist</a> 
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Job Tracker Website</b>
@@ -16,6 +15,10 @@
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/Samuel-Omobuwa/wild-oasis-website.git)
    - [Keylogger with Email Capability](https://github.com/Samuel-Omobuwa/wild-oasis-website.git)
 [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+
+<h2>👨‍💻 Data Analysis/Science Project:</h2>
+- <b>Healthcare Performance Dashboard</b>
+  - [Designed a dashboard to track the proformance of and healthcare for resource managment and decision making ](https://github.com/Samuel-Omobuwa/Heath_Performance_Dashboard.git)
 
 <h2> 🤳 Connect with me:</h2>
 
