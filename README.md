@@ -1,6 +1,16 @@
 
 <h1>Hi 👋, I'm Samuel Omobuwa! </h1>
-<h3><a href="https://github.com/Samuel-Omobuwa">A Frontend Developer</a> | <a href="https://www.linkedin.com/in/samuel-omobuwa-2a89201a6/">Data Analyst/Scientist</a> 
+<h3><a href="https://github.com/Samuel-Omobuwa">Data Analyst/Scientist </a> | <a href="https://www.linkedin.com/in/samuel-omobuwa-2a89201a6/">Front-End Developer</a> 
+
+
+<h2>📈Data Analysis/Science Project:</h2>
+- <b>Healthcare Performance Dashboard</b>
+
+- [Designed a dashboard to track the proformance of and healthcare for resource managment and decision making ](https://github.com/Samuel-Omobuwa/Heath_Performance_Dashboard.git)
+
+- - <b>Food Price Future Prediction App (How Market) </b>
+  - [Built a web application designed to help consumers, small businesses, and learners inspect recent historical food prices and view future price forecasts for Nigerian commodities.](https://github.com/Samuel-Omobuwa/how-market.git)
+  
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Job Tracker Website</b>
@@ -17,10 +27,7 @@
 [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 - <b></b>
 
-<h2>📈Data Analysis/Science Project:</h2>
-- <b>Healthcare Performance Dashboard</b>
 
-- [Designed a dashboard to track the proformance of and healthcare for resource managment and decision making ](https://github.com/Samuel-Omobuwa/Heath_Performance_Dashboard.git)
 
 <h2> 🤳 Connect with me:</h2>
 [<img align="left" alt="Samuel Omobuwa | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
