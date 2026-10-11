@@ -4,12 +4,19 @@
 
 
 <h2>📈Data Analysis/Science Project:</h2>
+
 - <b>Healthcare Performance Dashboard</b>
+  - [Designed a dashboard to track the proformance of and healthcare for resource managment and decision making ](https://github.com/Samuel-Omobuwa/Heath_Performance_Dashboard.git)
 
-- [Designed a dashboard to track the proformance of and healthcare for resource managment and decision making ](https://github.com/Samuel-Omobuwa/Heath_Performance_Dashboard.git)
+- <b>Food Price Future Prediction App (How Market) </b>
+ - [Built a web application designed to help consumers, small businesses, and learners inspect recent historical food prices and view future price forecasts for Nigerian commodities.](https://github.com/Samuel-Omobuwa/how-market.git)
 
-- - <b>Food Price Future Prediction App (How Market) </b>
-  - [Built a web application designed to help consumers, small businesses, and learners inspect recent historical food prices and view future price forecasts for Nigerian commodities.](https://github.com/Samuel-Omobuwa/how-market.git)
+ -  <b>Overdue_task_automation</b>
+  - [Automates the identification of overdue tasks and sends consolidated email notifications to each task owner](https://github.com/Samuel-Omobuwa/Overdue_task_automation.git)
+ 
+  -  <b></b>
+
+  
   
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -30,10 +37,6 @@
 
 
 <h2> 🤳 Connect with me:</h2>
-[<img align="left" alt="Samuel Omobuwa | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
-[<img align="left" alt="Samuel Omobuwa | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Samuel Omobuwa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Samuel Omobuwa | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://x.com/SamuelPleasant4
 [whatsapp]: https://wa.me/message/EH5WRUIN3DQ4H1 
